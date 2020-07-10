@@ -1,0 +1,17 @@
+{
+  "name": "@arturdoruch/html",
+  "description": "JavaScript HTML element helpers.",
+  "keywords": ["html element", "parse css styles"],
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "jquery": ">=2.0",
+    "@arturdoruch/util": "^1.0"
+  },
+  "author": {
+    "name": "Artur Doruch",
+    "email": "arturdoruch@interia.pl"
+  },
+  "repository": "https://github.com/arturdoruch/js-html",
+  "license": "MIT"
+}
