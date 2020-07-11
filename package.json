@@ -2,7 +2,7 @@
   "name": "@arturdoruch/html",
   "description": "JavaScript HTML element helpers.",
   "keywords": ["html element", "parse css styles"],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "dependencies": {
     "jquery": ">=2.0",
