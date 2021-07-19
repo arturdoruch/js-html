@@ -15,7 +15,7 @@ yarn add @arturdoruch/html
 HTMLElement object wrapper. Provides common functions to manipulate HTML element.
 
 ```js
-import HtmlElement from '@arturdoruch/html/lib/element/HtmlElement';
+import HtmlElement from '@arturdoruch/html/lib/element/HtmlElement.js';
 ```
 
 Usage
@@ -24,7 +24,7 @@ todo
 ### HTML utils
 
 ```js
-import htmlUtils from '@arturdoruch/html/lib/html-utils';
+import htmlUtils from '@arturdoruch/html/lib/html-utils.js';
 ```
 
 Functions:
@@ -35,7 +35,7 @@ Functions:
 ### HTML element factory
 
 ```js
-import htmlElementFactory from '@arturdoruch/html/lib/element/html-element-factory';
+import htmlElementFactory from '@arturdoruch/html/lib/element/html-element-factory.js';
 ````
 
 Functions:
